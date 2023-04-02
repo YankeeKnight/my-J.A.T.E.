@@ -7,7 +7,7 @@ PWA
 A Progressive Web Application (PWA)
 
 ## Installation
-Use website URL: 
+Clone repository, run `npm start`, select option to __"Install"__ 
 
 ## Usage
 Use as a blog to post about Tech and anything else!
